@@ -11,6 +11,12 @@ A lightweight, beautiful CLI mixer for PulseAudio, with gradient sliders, wrappe
 - Minimal flicker even on volume updates
 - Fully themeable using hex colors
 
+## Screenshot
+
+Here's pulsemix up & running on Kitty terminal (DawnFox theme):
+
+![pulsemix screenshot](assets/pulsemix-screenshot.png)
+
 ## Setup (Development)
 
 1. Clone the repository:
